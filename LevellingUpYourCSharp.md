@@ -1,4 +1,4 @@
-Levelling up your C#
+## Levelling up your C#
 
 A programming language is more than syntax. Behavior and use are idiomatic; to be effective you need to know the 
 nuances of the language. In this session you will learn how to easily avoid some of the most common C# mistakes 
