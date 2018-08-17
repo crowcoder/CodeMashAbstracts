@@ -1,4 +1,4 @@
-Postman Delivers! A Deep Dive into API Testing.
+## Postman Delivers! A Deep Dive into API Testing.
 
 Whether you are a tester or a developer of HTTP API’s, chances are you are already using Postman 
 to some degree. Chances are also that you are missing out on some of the advanced goodness. Using 
