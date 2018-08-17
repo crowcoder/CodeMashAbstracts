@@ -7,4 +7,4 @@ or import an existing database as your starting point. We’ll demonstrate publi
 refactoring and debugging T-SQL and .Net SQL CLR procedures. We’re not just talking about 
 tables and procedures either; we are talking about all types of database objects that you 
 typically manage in SSMS. Additionally, we’ll look at some often overlooked features of 
-Visual Studio for unit testing stored procedures and doing schema and data comparison.
+Visual Studio for unit testing stored procedures and doing schema and data comparisons.
