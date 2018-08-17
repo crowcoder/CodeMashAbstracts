@@ -5,7 +5,7 @@ is a different mindset than writing it. Debugging is not a prescibed recipe, it 
 skill for any developer. While this ability is inevitably gained through experience, there are tips tricks 
 and techniques you can learn to level up your effectiveness as a programmer right now. 
 
-For the novice, student, intern or new-grad, this session takes you through the most common things you don't know yet.
+For the novice, student or new-grad, this session takes you through the most common things you don't know yet.
 
 * how to use breakpoints effectively (there's more to it than you think)
 * what the heck step into, step over and step out do
