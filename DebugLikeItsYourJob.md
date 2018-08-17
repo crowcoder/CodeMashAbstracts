@@ -1,6 +1,6 @@
 ## Debug Like It's Your Job
 
-Being a developer is not just about writing code - that code has to work and figuring out why it doesn't
+Being a developer is not just about writing code - that code has to actually work and figuring out why it doesn't
 is a different mindset than writing it. Debugging is not a prescibed recipe, it is a necessary 
 skill for any developer. While this ability is inevitably gained through experience, there are tips tricks 
 and techniques you can learn to level up your effectiveness as a programmer right now. 
