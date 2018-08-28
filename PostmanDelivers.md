@@ -12,7 +12,6 @@ You learn how to :
 * data drive an entire suite of tests with just a few clicks.
 * backup and share your work
 * automate the whole shebang from the command line, optionally with reports
-* much more...
 
 Ditch the click/wait/verify/repeat cycle! 
 Concepts presented here apply to API testing in general, whether you use another tool or test with code 
