@@ -12,8 +12,8 @@ For the novice, student or new-grad, this session takes you through the most com
 * how to view and manipulate runtime state
 * how to use your environment's interactive terminal to interrogate your program
 * what the *stack* is and how it contains a wealth of information
-* the importance of Known Good Values (KGVs)
-* being a good investigator
+* the importance of Known Good Values (KGVs) in isolating a problem
+* knowing where to start by being a good investigator 
 
 This session saves you from all of those stackoverflow.com downvotes and "*did you even debug this?*" comments.
 Bring a laptop and play along! Your browser tools are sufficient to try out many of the presented concepts.
