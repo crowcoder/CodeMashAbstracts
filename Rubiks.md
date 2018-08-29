@@ -1,6 +1,5 @@
 ## Beginners Guide to Solving the Rubik’s Cube
-Have you ever wanted to know how to solve the cube? Do you tell people you can solve 3 sides (no you can’t) but 
-not the rest? In less than 60 minutes this session teaches you the easiest way to solve the famous 3x3 puzzle. 
+Geeks love cubes! In less than 60 minutes this session teaches you the easiest way to solve the famous 3x3 puzzle. 
 
 Take advantage of my experience slogging through incomplete, poorly written, confusing and even contradictory 
 tutorials on the interwebs. Demonstrated is my own hybrid approach mixing novice and so-called intermediate 
