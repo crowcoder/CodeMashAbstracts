@@ -18,7 +18,7 @@ Some things you will never do wrong again include:
   Catching exceptions is a relatively expensive operation that is often done unnecessarily. Gain understanding
   of what is happening when you catch and throw, and know when you don't need to.
 *	By ref Reference Type arguments (*I object!*)
-  Passing a reference type by ref is a red flag. In your entire career you may never have a legitamate reason
+  Passing a reference type by ref is a red flag. In your entire career you may never have a legitimate reason
   to do so. Find out why.
 *	IDisposable (*Knowing when it’s time to let go*)
   Shedding light on what it means to be Disposable and guidance on when you need to make your types Disposable.
